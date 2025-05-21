@@ -36,3 +36,17 @@ def by_month(df):
                                                            'September','October','November','December'])
     
     return month_crime
+
+
+def repl_strng(df, column, strng_pairs):
+    '''
+    In order to combine similar categories, 
+    finds and replaces strings in a dataframe column.
+
+    Args:
+    df : the data frame
+    column : the column to be modified
+    strng_pairs: dictionary of keys to find
+    '''
+    df[column] = df[column].replace(strng_pairs, regex=False)
+    return df
