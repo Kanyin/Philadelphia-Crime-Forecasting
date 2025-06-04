@@ -1,7 +1,6 @@
-## Crime Forecasting with SARIMA
+## I didn't do the crime...but I can still do the time! 
+### Time Series Visualization and Forecasting
 Did you know that there is a high chance of crime on a day like this, a Wednesday, in June in Philly? A beautiful ordinary day like this may be high in theft. Well, I decided to look into things like this by pure curiosity inspired by my poor neighbors. In 2024, my then next-door neighbors consistently got their packages stolen while our own house was unscathed. In doing some research, it was no surpise to see that theft was a top crime all over Philly. However, some of the other numbers were surprising as well. 2024 was one for the books. Philly in particular experienced some of the lowest homicide levels ever.  Please take a look.
-
-![image](https://github.com/user-attachments/assets/ec4bb21b-7b92-46d9-a62a-1dfc1514720b)
 
 
 ###### Crime Forecasting with SARIMA
