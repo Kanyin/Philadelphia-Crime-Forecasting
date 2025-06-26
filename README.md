@@ -1,8 +1,8 @@
 ## I didn't do the crime, but I can still do the time...series! 
 ### Time Series Visualization and Forecasting
-Did you know that there is a high chance of crime on given Wednesday, in June, in Philly? 
+Did you know that there is a high chance of crime on any given Wednesday, in June, in Philly? 
 <br>
-I decided to look into things like this by pure curiosity inspired by my poor neighbors. In 2024, my then next-door neighbors consistently got their packages stolen while our own house was unscathed. In doing some research, it was no surpise to see that theft was a top crime all over Philly. However, some of the other numbers were surprising as well. 2024 was one for the books. Philly in particular experienced some of the lowest homicide levels ever.  Please take a look.
+I myself had no clue until I decided to look into things like this after my poor neighbors packages kept getting stolen. In doing some research, it was no surpise to see that theft was a top crime all over Philly. However, some of the other numbers were surprising as well. 2024 was one for the books. Philly in particular experienced some of the lowest homicide levels ever.  Please take a look.
 <br><br><br>
 
 ###### Crime Forecasting with SARIMA
